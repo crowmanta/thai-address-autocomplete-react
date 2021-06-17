@@ -54,7 +54,7 @@
   ],
   "dependencies": {
     "antd": "^4.12.2",
-    "fsevents": "^1.2.13",
+    "fsevents": "^2.1.3",
     "react-autocomplete": "^1.8.1",
     "thai-address-database": "^0.0.29"
   },
